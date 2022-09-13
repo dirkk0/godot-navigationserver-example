@@ -1,0 +1,3 @@
+# Godot NavigationServer Example
+
+...
